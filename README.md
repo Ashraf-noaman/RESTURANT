@@ -21,7 +21,7 @@ A modern and responsive landing page for a restaurant built using **JavaScript**
 ---
 
 ## 📸 Screenshot
-*(Add a screenshot of your landing page here)*
+![Home Page](./assets/img/github2.png)
 
 ---
 
